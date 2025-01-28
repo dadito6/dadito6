@@ -1,12 +1,10 @@
 ## Hi there 👋
 <div align="center" style="display: flex; align-items: center; gap: 10px; margin: 20px 0;">
-  <a href="https://www.linkedin.com/in/cesar-rea-275620304/" target="_blank">
-    <img src="https://drive.google.com/uc?export=view&id=1BXw1BYBAiCtViAn2KSdSIl-vGun-r388" alt="LinkedIn Logo" width="40px" style="border-radius: 50%;"/>
   </a>
   <div>
     <h3 style="margin: 0;">¡Conéctate conmigo en LinkedIn! 🚀</h3>
     <p style="margin: 5px 0; font-size: 14px;">Soy Cesar Rea, desarrollador apasionado por la tecnología.</p>
-    <a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank" style="text-decoration: none; color: #0077B5;">
+    <a href="https://www.linkedin.com/in/cesar-rea-275620304/" target="_blank" style="text-decoration: none; color: #0077B5;">
       Visitar perfil → 
     </a>
   </div>
