@@ -2,10 +2,10 @@
 <div align="center" style="display: flex; align-items: center; gap: 10px; margin: 20px 0;">
   </a>
   <div>
-    <h3 style="margin: 0;">¡Conéctate conmigo en LinkedIn! 🚀</h3>
+    <h3 style="margin: 0;">¡Visualiza mi Portafolio web! 🚀</h3>
     <p style="margin: 5px 0; font-size: 14px;">Soy Cesar Rea, desarrollador apasionado por la tecnología.</p>
-    <a href="https://www.linkedin.com/in/cesar-rea-275620304/" target="_blank" style="text-decoration: none; color: #0077B5;">
-      Visitar perfil → 
+    <a href="https://portfolio-cesar-eight.vercel.app/" target="_blank" style="text-decoration: none; color: #0077B5;">
+      Visitar→ 
     </a>
   </div>
 </div>
